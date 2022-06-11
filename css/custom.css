@@ -1,0 +1,10 @@
+.hamburger.active .bar::after{transform:translateY(4px) rotate(45deg);}
+.hamburger.active .bar::before{transform:translateY(-4px) rotate(-45deg);}
+.height_auto{ height: 200px;}
+
+.accordion_button .act{display: none;}
+.accordion_button .acD{display: block;}
+.faq.achsd .answer{max-height: 400px;}
+.faq.achsd .up{transform: rotate(135deg);}
+   .header_menu{top: 0;left: 0;}
+
